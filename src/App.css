@@ -200,8 +200,8 @@
   object-fit: cover;
   background-position: top left;
   background-size: cover;
-  padding-top: 120px;
-  padding-bottom: 80px;
+  padding-top: 100px;
+  padding-bottom: 70px;
 }
 
 .bor_email {
@@ -272,8 +272,8 @@
 }
 
 .footer_pad {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .top_layer {
