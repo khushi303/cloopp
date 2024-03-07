@@ -13,7 +13,7 @@ const Recycle = () => {
             <div className='position-absolute start-0 end-0 z-3 top_layer'>
                 <img src={WhiteLayer1} alt="WhiteLayer1" className='w-100 object-fit-cover' />
             </div>
-            <div className='container py-lg-4 py-4 my-lg-0 my-md-4'>
+            <div className='container py-lg-4 py-sm-5 py-4 my-lg-0 my-md-4'>
                 <div className='row justify-content-between flex-lg-row flex-column-reverse'>
                     <div className='col-lg-6 col-12 mt-lg-0 mt-4'>
                         <h3 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text-white lh_120 mb-4 pb-lg-3'>Recycling Has Never Been This Easy and Rewarding</h3>

@@ -289,7 +289,7 @@
 }
 
 .bottom_layer {
-  bottom: -2px;
+  bottom: -15px;
 }
 
 .head_arrow {
@@ -329,6 +329,10 @@
 @media (min-width:768px) {
   .mw_md_146 {
     max-width: 146px;
+  }
+
+  .bottom_layer {
+    bottom: -36px;
   }
 
   .w_180 {
