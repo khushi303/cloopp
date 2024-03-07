@@ -4,7 +4,7 @@ import Ellipse2 from '../assets/images/png/greenellipse.png';
 
 const GreenerWorld = () => {
     return (
-        <div id='career' className='pt-md-4 pb-lg-5 pb-4 position-relative'>
+        <div id='career' className=' pt-md-4 pb-lg-5 pb-4 position-relative'>
             <h3 data-aos="fade-right" className='ff_outfit fs_lg fw-semibold text-center text_boldblack lh_120 mw_675 mx-auto mb-lg-5 mb-4 px-lg-0 px-4'>Creating a Greener World Is Now As Easy As 1-2-3</h3>
             <div className='container'>
                 <div className='row justify-content-lg-between justify-content-center'>
