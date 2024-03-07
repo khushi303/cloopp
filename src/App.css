@@ -197,11 +197,6 @@
   right: -12%;
 }
 
-/* -----------------accordian-2--------------- */
-.acc2.accordion {
-  max-width: 957px !important;
-}
-
 .acc2 .accordion-item {
   background-color: transparent !important;
   border: 1px solid #C5C5C5 !important;
@@ -212,7 +207,6 @@
   max-width: 758px !important;
 }
 
-/* --------------Newsletter---------------- */
 .bg_news {
   background-image: url('./assets/images/png/newsletter.png');
   object-fit: cover;
