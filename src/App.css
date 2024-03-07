@@ -344,8 +344,9 @@
   }
 
   .bg_news {
+    background-size: 100% 100%;
     padding-top: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 170px;
   }
 }
 
@@ -406,12 +407,6 @@
 
   .mw_lg_402 {
     max-width: 402px;
-  }
-
-  .bg_news {
-    background-size: 100% 100%;
-    padding-top: 252px;
-    padding-bottom: 200px;
   }
 }
 
@@ -538,7 +533,7 @@
   :root {
     --fs-2sm: 15px;
     --fs-md: 20px;
-    --fs-lg: 35px;
+    --fs-lg: 28px;
     --fs-xl: 40px;
     --fs-2xl: 41px;
   }

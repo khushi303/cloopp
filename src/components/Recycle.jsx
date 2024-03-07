@@ -80,7 +80,7 @@ const Recycle = () => {
                             </div>
                         </div>
                     </div>
-                    <div data-aos="zoom-out" className='col-xl-5 col-lg-6 col-12 position-relative'>
+                    <div data-aos="zoom-out" className='col-xl-5 col-lg-6 col-md-10 col-12 position-relative'>
                         <img src={Recycleimg} alt="Recycleimg" className='w-100 ' />
                         <img src={BlueShadow} alt="BlueShadow" className='mw_213 w-100 position-absolute blueshadow' />
                     </div>
