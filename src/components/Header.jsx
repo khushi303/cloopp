@@ -52,7 +52,7 @@ const Header = () => {
 
                             </div>
                         </div>
-                        <div data-aos="fade-up" className='col-lg-5 col-12 d-flex position-relative align-items-center justify-content-lg-end justify-content-center mt-lg-0 mt-sm-5 mt-4'>
+                        <div data-aos="fade-up" className='col-lg-5 col-12 d-flex position-relative align-items-center justify-content-lg-end justify-content-center mt-lg-0 mt-4'>
                             <img src={Bottle} alt="Bottle" className='w-100 mw_530' />
                             <div className='position-absolute head_arrow d-lg-block d-none'>
                                 <Curlyarrow />
