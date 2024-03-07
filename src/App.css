@@ -331,6 +331,10 @@
     max-width: 146px;
   }
 
+  .w_180 {
+    width: 180px !important;
+  }
+
   .gap_md_36 {
     gap: 36px !important;
   }
