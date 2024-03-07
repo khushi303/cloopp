@@ -6,7 +6,7 @@ const Frequently = () => {
         <div id='about' className='pb-xl-5 pb-sm-4 pt-md-4 mt-md-5 mt-4 position-relative'>
             <div id='faq' className='container position-relative z-3'>
                 <h2 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text_boldblack text-center mb-0 lh_120'>Frequently Asked Questions</h2>
-                <div data-aos="zoom-in-up" className='mt-4 pt-md-3 w-100 row justify-content-center'>
+                <div data-aos="zoom-in-up" className='mt-4 pt-md-3 w-100 row justify-content-center mx-auto'>
                     <div className='col-lg-10 px-xl-5 px-lg-4 col-12'>
                         <div className="accordion acc2 mx-auto gap-3 d-flex flex-column w-100" id="accordionExample1">
                             <div className="accordion-item p-3">

@@ -4,12 +4,12 @@ import Ellipse2 from '../assets/images/png/greenellipse.png';
 
 const GreenerWorld = () => {
     return (
-        <div id='career' className='pt_md_44 pt-3 pb-md-5 pb-4 mb-2 position-relative'>
-            <h3 data-aos="fade-right" className='ff_outfit fs_lg fw-semibold text-center text_boldblack lh_120 mw_675 mx-auto mb-5 px-lg-0 px-4'>Creating a Greener World Is Now As Easy As 1-2-3</h3>
+        <div id='career' className='pt-md-5 pb-lg-5 pb-4 position-relative'>
+            <h3 data-aos="fade-right" className='ff_outfit fs_lg fw-semibold text-center text_boldblack lh_120 mw_675 mx-auto mb-lg-5 mb-4 px-lg-0 px-4'>Creating a Greener World Is Now As Easy As 1-2-3</h3>
             <div className='container'>
-                <div className='row justify-content-between'>
-                    <div data-aos="zoom-in" className='col-lg-6 col-12 d-flex align-items-center justify-content-center'>
-                        <img src={PhoneScreen} alt="PhoneScreen" className='w-100 mw_357' />
+                <div className='row justify-content-lg-between justify-content-center'>
+                    <div data-aos="zoom-in" className='col-lg-6 col-10 d-flex align-items-center justify-content-center'>
+                        <img src={PhoneScreen} alt="PhoneScreen" className='w-100' />
                     </div>
                     <div data-aos="zoom-in" className='col-lg-6 col-12 mt-lg-0 mt-5'>
                         <div>
