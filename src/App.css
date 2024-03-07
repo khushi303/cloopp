@@ -271,7 +271,7 @@
   transition: all .3s linear;
 }
 
-.icon_box:hover{
+.icon_box:hover {
   scale: 1.234;
 }
 
@@ -414,10 +414,6 @@
     max-width: 402px;
   }
 
-  .acc1.accordion {
-    max-width: 513px !important;
-  }
-
   .bg_news {
     background-size: 100% 100%;
     padding-top: 252px;
@@ -428,10 +424,6 @@
 @media (min-width:1200px) {
   .bg_news {
     padding-bottom: 253px;
-  }
-
-  .pt_xl_73 {
-    padding-top: 73px !important;
   }
 
   .op_xl_1 {
@@ -626,7 +618,6 @@
   opacity: 60%;
 }
 
-/* /* -----------------------------preloader-------------------------- / */
 .animation {
   animation: swing 2s linear infinite;
 }

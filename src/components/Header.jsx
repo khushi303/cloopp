@@ -36,9 +36,9 @@ const Header = () => {
                 </div>
             </nav>
             <header id='work' className='position-relative'>
-                <div className='container pt-lg-0 pt-4 position-relative'>
+                <div className='container position-relative'>
                     <div className='row mt_lg_78 pb_lg_64 pb-sm-4 pb-5 mt-5 justify-content-between '>
-                        <div data-aos="fade-right" className='col-xl-6 col-lg-7 col-12 pt_xl_73 position-relative z-1'>
+                        <div data-aos="fade-right" className='col-xl-6 col-lg-7 col-12 pt-xl-5 mt-xl-4 position-relative z-1'>
                             <h2 className='ff_outfit fs_2xl fw-semibold text-white lh_125 mb-0'>Recycle. Reward.</h2>
                             <h2 className='ff_rainbow fs_xl fw-normal text-white lh_130 mb-19'>with Cloopp</h2>
                             <p className='ff_outfit fs_2sm fw-normal text-white op_90 mb-0 lh_151 mb-38 mw_lg_448'>Get exclusive discounts and coupons from the hottest brands every time you recycle and track your environmental impact with the Cloopp App.</p>
