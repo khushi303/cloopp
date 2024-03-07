@@ -16,7 +16,7 @@ const Recycle = () => {
             <div className='container py-lg-4 py-5 my-lg-0 my-md-4'>
                 <div className='row justify-content-between flex-lg-row flex-column-reverse'>
                     <div className='col-lg-6 col-12 mt-lg-0 mt-4'>
-                        <h3 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text-white lh_120 mb_40'>Recycling Has Never Been This Easy and Rewarding</h3>
+                        <h3 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text-white lh_120 mb-4 pb-lg-3'>Recycling Has Never Been This Easy and Rewarding</h3>
                         <div data-aos="zoom-in-right" className='pe-xl-5 me-xxl-5'>
                             <div className="accordion acc1 gap-4 pe-xl-4 d-flex w-100 flex-column" id="accordionExample">
                                 <div className="accordion-item d-flex gap-20 py-3 ">
