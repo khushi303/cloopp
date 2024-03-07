@@ -17,13 +17,13 @@ const Footer = () => {
                         <div className='row justify-content-between'>
                             <ul className='list-unstyled d-flex flex-column gap-3 col-sm-3 col-6 mb-0'>
                                 <li><a href="#about" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>About Us</a></li>
-                                <li><a href="#work" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 '>How It Works</a></li>
+                                <li><a href="#work" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>How It Works</a></li>
                                 <li><a href="#brand" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>For Brands</a></li>
                                 <li><a href="#faq" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>FAQs</a></li>
                             </ul>
                             <ul className='list-unstyled d-flex flex-column gap-3 mb-0  col-sm-4 col-6'>
                                 <li><a href="#" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>Terms & Conditions</a></li>
-                                <li><a href="#" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 '>Privacy Policy</a></li>
+                                <li><a href="#" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>Privacy Policy</a></li>
                             </ul>
                             <div className=' col-sm-4 col-6 mt-sm-0 mt-4'>
                                 <p className='ff_outfit fs_2sm fw-normal op_80 text-white mb_12 lh_100'>Follow Us </p>
