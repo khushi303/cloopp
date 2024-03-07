@@ -36,7 +36,7 @@ const GreenerWorld = () => {
                     </div>
                 </div>
             </div>
-            <div className='ellipse_green position-absolute bottom-50 start-0'>
+            <div className='ellipse_green position-absolute bottom-50 start-0 d-lg-block d-none'>
                 <img src={Ellipse2} alt="Ellipse2" className='w-100 mw_213' />
             </div>
         </div>
