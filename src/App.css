@@ -374,7 +374,7 @@
   }
 
   .top_layer {
-    top: -8%;
+    top: -5%;
   }
 
   .pb_106 {
@@ -386,7 +386,7 @@
   }
 
   .bottom_layer {
-    bottom: -50px;
+    bottom: -40px;
   }
 
   .mt_lg_78 {
@@ -424,6 +424,10 @@
 @media (min-width:1200px) {
   .bg_news {
     padding-bottom: 253px;
+  }
+
+  .top_layer {
+    top: -7%;
   }
 
   .op_xl_1 {
