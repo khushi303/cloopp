@@ -54,7 +54,7 @@ function App() {
         screenLoading ? (
           <>
             <div
-              class="min-vh-100 w-100 bg_blue position-fixed start-0 top-0 d-flex align-items-center justify-content-center z_index_11 duration_300">
+              className="min-vh-100 w-100 bg_blue position-fixed start-0 top-0 d-flex align-items-center justify-content-center z_index_11 duration_300">
               <img src={Loader} alt="Loader" className='mw_md_146 w-100 mw_120 animation' />
             </div>
 
