@@ -18,19 +18,19 @@ const Recycle = () => {
                     <div className='col-lg-6 col-12 mt-lg-0 mt-4'>
                         <h3 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text-white lh_120 mb_40'>Recycling Has Never Been This Easy and Rewarding</h3>
                         <div data-aos="zoom-in-right">
-                            <div class="accordion acc1 gap-4 d-flex w-100 flex-column" id="accordionExample">
-                                <div class="accordion-item d-flex gap-20 py-3 ">
+                            <div className="accordion acc1 gap-4 d-flex w-100 flex-column" id="accordionExample">
+                                <div className="accordion-item d-flex gap-20 py-3 ">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg1} alt="Accimg1" className=' w-100' />
                                     </div>
                                     <div className='w-100'>
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <h2 className="accordion-header">
+                                            <button className="accordion-button ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                                 Exclusive Coupons & Rewards
                                             </button>
                                         </h2>
-                                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
+                                        <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                            <div className="accordion-body">
                                                 <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>
@@ -38,18 +38,18 @@ const Recycle = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div class="accordion-item d-flex gap-20 py-3">
+                                <div className="accordion-item d-flex gap-20 py-3">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg2} alt="Accimg1" className=' w-100' />
                                     </div>
                                     <div className='w-100'>
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <h2 className="accordion-header">
+                                            <button className="accordion-button collapsed ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                 Track Your Environmental Impact
                                             </button>
                                         </h2>
-                                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
+                                        <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div className="accordion-body">
                                                 <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>
@@ -58,18 +58,18 @@ const Recycle = () => {
                                     </div>
 
                                 </div>
-                                <div class="accordion-item d-flex gap-20 py-3">
+                                <div className="accordion-item d-flex gap-20 py-3">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg3} alt="Accimg1" className=' w-100' />
                                     </div>
                                     <div className='w-100'>
-                                        <h2 class="accordion-header">
-                                            <button class="accordion-button collapsed ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <h2 className="accordion-header">
+                                            <button className="accordion-button collapsed ff_outfit text-white fs_md lh_130" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                 Feel Good
                                             </button>
                                         </h2>
-                                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                            <div class="accordion-body">
+                                        <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div className="accordion-body">
                                                 <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>

@@ -24,27 +24,27 @@ export const Playstore = () => {
             <path opacity="0.25" d="M17.9625 9.9408L43.5129 24.8638C44.2991 25.4016 44.8232 25.9394 44.8232 26.6116C44.8232 25.9394 44.4301 25.2672 43.5129 24.7294L17.9625 9.80635C16.1281 8.73082 14.6868 9.53747 14.6868 11.6885V11.823C14.6868 9.80635 16.1281 8.86526 17.9625 9.9408Z" fill="white" />
             <defs>
                 <linearGradient id="paint0_linear_1075_921" x1="30.1479" y1="11.4324" x2="7.59208" y2="33.4142" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#00A0FF" />
-                    <stop offset="0.007" stop-color="#00A1FF" />
-                    <stop offset="0.26" stop-color="#00BEFF" />
-                    <stop offset="0.512" stop-color="#00D2FF" />
-                    <stop offset="0.76" stop-color="#00DFFF" />
-                    <stop offset="1" stop-color="#00E3FF" />
+                    <stop stopColor="#00A0FF" />
+                    <stop offset="0.007" stopColor="#00A1FF" />
+                    <stop offset="0.26" stopColor="#00BEFF" />
+                    <stop offset="0.512" stopColor="#00D2FF" />
+                    <stop offset="0.76" stopColor="#00DFFF" />
+                    <stop offset="1" stopColor="#00E3FF" />
                 </linearGradient>
                 <linearGradient id="paint1_linear_1075_921" x1="28.7121" y1="26.6786" x2="47.8222" y2="26.6786" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#F0CF30" />
-                    <stop offset="1" stop-color="#B4832C" />
+                    <stop stopColor="#F0CF30" />
+                    <stop offset="1" stopColor="#B4832C" />
                 </linearGradient>
                 <linearGradient id="paint2_linear_1075_921" x1="34.1136" y1="29.6981" x2="3.52747" y2="59.5076" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#FF3A44" />
-                    <stop offset="1" stop-color="#C31162" />
+                    <stop stopColor="#FF3A44" />
+                    <stop offset="1" stopColor="#C31162" />
                 </linearGradient>
                 <linearGradient id="paint3_linear_1075_921" x1="11.1442" y1="-0.0403086" x2="24.803" y2="13.2717" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#32A071" />
-                    <stop offset="0.069" stop-color="#2DA771" />
-                    <stop offset="0.476" stop-color="#15CF74" />
-                    <stop offset="0.801" stop-color="#06E775" />
-                    <stop offset="1" stop-color="#00F076" />
+                    <stop stopColor="#32A071" />
+                    <stop offset="0.069" stopColor="#2DA771" />
+                    <stop offset="0.476" stopColor="#15CF74" />
+                    <stop offset="0.801" stopColor="#06E775" />
+                    <stop offset="1" stopColor="#00F076" />
                 </linearGradient>
             </defs>
         </svg>
