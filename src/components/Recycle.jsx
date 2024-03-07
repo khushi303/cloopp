@@ -58,7 +58,7 @@ const Recycle = () => {
                                     </div>
 
                                 </div>
-                                <div className="accordion-item d-flex gap-20 py-3">
+                                <div className="accordion-item d-flex align-items-center gap-20 py-3">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg3} alt="Accimg1" className=' w-100' />
                                     </div>
