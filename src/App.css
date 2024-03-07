@@ -74,9 +74,6 @@
   margin-bottom: 19px !important;
 }
 
-.mb-38 {
-  margin-bottom: 38px !important;
-}
 
 .mw_530 {
   max-width: 530px !important;
@@ -361,6 +358,10 @@
 
   .bt_black {
     bottom: -7%;
+  }
+
+  .mb-38 {
+    margin-bottom: 38px !important;
   }
 
   .star_img {
