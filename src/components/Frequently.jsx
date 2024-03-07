@@ -59,7 +59,7 @@ const Frequently = () => {
                     </div>
                 </div>
             </div>
-            <div className='position-absolute end-0 ellipse_top'>
+            <div className='position-absolute end-0 ellipse_top d-lg-block d-none'>
                 <img src={Ellipse1} alt="Ellipse1" className='mw_286 w-100 opacity-50 op_xl_1' />
             </div>
         </div>
