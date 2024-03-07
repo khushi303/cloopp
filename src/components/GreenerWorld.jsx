@@ -9,7 +9,7 @@ const GreenerWorld = () => {
             <div className='container'>
                 <div className='row justify-content-lg-between justify-content-center'>
                     <div data-aos="zoom-in" className='col-lg-6 col-10 d-flex align-items-center justify-content-center'>
-                        <img src={PhoneScreen} alt="PhoneScreen" className='w-100' />
+                        <img src={PhoneScreen} alt="PhoneScreen" className='w-100 mw_357' />
                     </div>
                     <div data-aos="zoom-in" className='col-lg-6 col-12 mt-lg-0 mt-5'>
                         <div>
