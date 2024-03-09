@@ -54,7 +54,7 @@ function App() {
         screenLoading ? (
           <>
             <div
-              className="min-vh-100 w-100 bg_blue position-fixed start-0 top-0 d-flex align-items-center justify-content-center z_index_11 duration_300">
+              className="min-vh-100 w-100 bg_blue position-fixed start-0 top-0 d-flex align-items-center justify-content-center z_index_11">
               <img src={Loader} alt="Loader" className='mw_md_146 w-100 mw_120 animation' />
             </div>
 
@@ -70,8 +70,8 @@ function App() {
             <Frequently />
             <Newsletter />
             <Footer />
-            <div className={`${backToTop ? '' : 'd-none'} BackToTop justify-content-center align-items-center`} onClick={() => top()}>
-              <img src={TopBtn} alt="TopBtn" className='mw_30 w-100' />
+            <div className={`${backToTop ? '' : 'd-none'} BackToTop justify-content-center align-items-center d-flex position-fixed`} onClick={() => top()}>
+              <img src={TopBtn} alt="TopBtn" className='mw_40 w-100' />
             </div>
           </div>
         )

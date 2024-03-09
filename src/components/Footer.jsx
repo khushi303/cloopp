@@ -26,8 +26,8 @@ const Footer = () => {
                                 <li><a href="#" className='ff_outfit fs_2sm fw-normal op_80 text-white lh_100 menu_link position-relative'>Privacy Policy</a></li>
                             </ul>
                             <div className=' col-sm-4 col-6 mt-sm-0 mt-4'>
-                                <p className='ff_outfit fs_2sm fw-normal op_80 text-white mb_12 lh_100'>Follow Us </p>
-                                <div className='d-flex gap-10'>
+                                <p className='ff_outfit fs_2sm fw-normal op_80 text-white mb-2 pb-1 lh_100'>Follow Us </p>
+                                <div className='d-flex gap-2'>
                                     <a href='https://instagram.com/accounts/login/' target='blank' className='icon_box d-flex align-items-center justify-content-center'>
                                         <Instagram />
                                     </a>

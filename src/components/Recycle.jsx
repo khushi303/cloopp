@@ -19,7 +19,7 @@ const Recycle = () => {
                         <h3 data-aos="fade-right" className='ff_outfit fw-semibold fs_lg text-white lh_120 mb-4 pb-lg-3'>Recycling Has Never Been This Easy and Rewarding</h3>
                         <div data-aos="zoom-in-right" className='pe-xl-5 me-xxl-5'>
                             <div className="accordion acc1 gap-4 pe-xl-4 d-flex w-100 flex-column" id="accordionExample">
-                                <div className="accordion-item d-flex gap-20 py-3 ">
+                                <div className="accordion-item d-flex gap-3 py-3 ">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg1} alt="Accimg1" className=' w-100' />
                                     </div>
@@ -31,14 +31,14 @@ const Recycle = () => {
                                         </h2>
                                         <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
+                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 pe-3'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="accordion-item d-flex gap-20 py-3">
+                                <div className="accordion-item d-flex gap-3 py-3">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg2} alt="Accimg1" className=' w-100' />
                                     </div>
@@ -50,7 +50,7 @@ const Recycle = () => {
                                         </h2>
                                         <div id="collapseTwo" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
+                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 pe-3'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>
                                             </div>
@@ -58,7 +58,7 @@ const Recycle = () => {
                                     </div>
 
                                 </div>
-                                <div className="accordion-item d-flex align-items-center gap-20 py-3">
+                                <div className="accordion-item d-flex align-items-center gap-3 py-3">
                                     <div className='mw_40 w-100'>
                                         <img src={Accimg3} alt="Accimg1" className=' w-100' />
                                     </div>
@@ -70,7 +70,7 @@ const Recycle = () => {
                                         </h2>
                                         <div id="collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 mw_lg_402'>
+                                                <p className='ff_outfit fw-normal fs_2sm lh_151 text-white op_90 mb-0 pe-3'>
                                                     Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.
                                                 </p>
                                             </div>

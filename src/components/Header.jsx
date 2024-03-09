@@ -15,8 +15,8 @@ const Header = () => {
     }
     return (
         <div>
-            <nav className='bg_nav py_13'>
-                <div className='container mw_1164'>
+            <nav className='bg_nav py-2'>
+                <div className='container py-1'>
                     <div className='d-flex align-items-center justify-content-between py-'>
                         <a href=''>
                             <img src={Logo} alt="Logo" className='mw_md_146 w-100 mw_120' />
@@ -36,12 +36,12 @@ const Header = () => {
                 </div>
             </nav>
             <header id='work' className='position-relative'>
-                <div className='container position-relative'>
-                    <div className='row mt_lg_78 pb_lg_64 pb-sm-4 pb-5 mt-5 justify-content-between '>
+                <div className='container position-relative pb-lg-5'>
+                    <div className='row mt-lg-5 pt-lg-4 pb-sm-4 pb-5 mt-5 justify-content-lg-between justify-content-center'>
                         <div data-aos="fade-right" className='col-xl-6 col-lg-7 col-12 pt-xl-5 mt-xl-4 position-relative z-1'>
                             <h2 className='ff_outfit fs_2xl fw-semibold text-white lh_125 mb-0'>Recycle. Reward.</h2>
                             <h2 className='ff_rainbow fs_xl fw-normal text-white lh_130 mb-3 pb-1'>with Cloopp</h2>
-                            <p className='ff_outfit fs_2sm fw-normal text-white op_90 mb-0 lh_151 mb-38 mb-4 mw_lg_448'>Get exclusive discounts and coupons from the hottest brands every time you recycle and track your environmental impact with the Cloopp App.</p>
+                            <p className='ff_outfit fs_2sm fw-normal text-white op_90 mb-0 lh_151 pb-lg-2 mb-4 mw_lg_448'>Get exclusive discounts and coupons from the hottest brands every time you recycle and track your environmental impact with the Cloopp App.</p>
                             <div className='d-flex gap-sm-3 gap-2 align-items-sm-center'>
                                 <a href=''>
                                     <Appstore />
@@ -52,8 +52,8 @@ const Header = () => {
 
                             </div>
                         </div>
-                        <div data-aos="fade-up" className='col-lg-5 col-12 d-flex position-relative align-items-center justify-content-lg-end justify-content-center mt-lg-0 mt-4'>
-                            <img src={Bottle} alt="Bottle" className='w-100 mw_530' />
+                        <div data-aos="fade-up" className='col-lg-5 col-sm-10 col-12 position-relative mt-lg-0 mt-4'>
+                            <img src={Bottle} alt="Bottle" className='w-100' />
                             <div className='position-absolute head_arrow d-lg-block d-none'>
                                 <Curlyarrow />
                             </div>
